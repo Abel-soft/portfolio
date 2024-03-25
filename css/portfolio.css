@@ -4,19 +4,19 @@ section .galerie-item{
     padding-bottom: 10px;
 }
 section .galerie-item:nth-child(1){
-    background-image: url('./images/boulager1.PNG') ;
+    background-image: url('../images/boulager1.PNG') ;
     background-size: cover;
     background-repeat: no-repeat;  
 }
 section .galerie-item:nth-child(2){
 
-    background-image: url('./images/Capture36.PNG') ;
+    background-image: url('../images/Capture36.PNG') ;
     background-size: cover;
     background-repeat: no-repeat;
 }
 section .galerie-item:nth-child(3){
 
-    background-image: url('./images/Capture2.PNG') ;
+    background-image: url('images/Capture2.PNG') ;
     background-size: cover;
     background-repeat: no-repeat;
     
