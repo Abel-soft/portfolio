@@ -62,7 +62,7 @@
     content: "75%";  
 }
 .grogresse-bar.javascript span::after , .symfony span::after,.python span::after,.jquery span::after,.django span::after{
-    content: "65%";  
+    content: "60%";  
 }
 .grogresse-bar.bootstrap span::after{
     content: "80%";  
