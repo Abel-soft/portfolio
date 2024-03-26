@@ -16,7 +16,7 @@ section .galerie-item:nth-child(2){
 }
 section .galerie-item:nth-child(3){
 
-    background-image: url('..images/Capture2.PNG') ;
+    background-image: url('../images/Capture2.PNG') ;
     background-size: cover;
     background-repeat: no-repeat;
     
